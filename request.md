@@ -17,7 +17,7 @@ Content:
 
 **Component**: Destination
 
-**Location**: Server object + path object + potiantially parameter object in case where there are path parameters
+**Location**: Server object + path object + potentially parameter object in case where there are path parameters
 
 ---
 
