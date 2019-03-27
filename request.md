@@ -1,5 +1,7 @@
 # Request
 
+In this document we go over what information is required to create a request and where in the API spec you can find this information. 
+
 ## Request contents
 
 Destination: For example www.api.a/endpoint
